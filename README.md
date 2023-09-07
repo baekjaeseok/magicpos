@@ -3,8 +3,8 @@
 ## Spring Framework & Python(OpenCV, MediaPipe)
 
 #### 기술 스택
-* Spring FramWork 활용
-* Java / JavaScript / AJAX
+* Spring Framwork 활용
+* Java / JavaScript / Ajax
 * HTML / CSS / JSP
 * MySQL DB
 * Python / COLAB / Pycharm
