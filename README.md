@@ -20,6 +20,7 @@ OpneCV와 MediaPipe를 활용하여 동작별 30초씩 데이터 수집
 
 #### 모델 학습
 LSTM - tanh
+![그림1](https://github.com/baekjaeseok/magicpos/assets/133929822/3d94188a-3d7b-4d70-b482-0c330ce59f2a)
 * code location : train_tanh_seq30.ipynb
 
 #### 모션인식
