@@ -24,6 +24,6 @@ LSTM - tanh
 
 #### 모션인식
 ![magicpos](https://github.com/baekjaeseok/magicpos/assets/133929822/42c7e6a0-fa7a-4578-82a8-88f417a6812c)
-* code location : 
+* code location : gesture_control.py
 
   
