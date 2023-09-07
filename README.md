@@ -8,3 +8,9 @@
 * HTML / CSS / JSP
 * MySQL DB
 * Python / COLAB / Pycharm
+
+#### 담당
+* 데이터베이스(MySQL)설계
+* OpenCV와 MediaPipe를 활용한 데이터 수집, 데이터 전처리
+* LSTM모델을 활용한 모델학습 및 평가
+  
