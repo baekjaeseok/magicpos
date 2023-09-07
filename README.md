@@ -14,6 +14,11 @@
 * OpenCV와 MediaPipe를 활용한 데이터 수집, 데이터 전처리
 * LSTM모델을 활용한 모델학습 및 평가
 
+#### 데이터 수집
+OpneCV와 MediaPipe를 활용하여 동작별 30초씩 데이터 수집
+code location
+* create_dataset.py
+
 #### 모션인식
 ![magicpos](https://github.com/baekjaeseok/magicpos/assets/133929822/42c7e6a0-fa7a-4578-82a8-88f417a6812c)
 
