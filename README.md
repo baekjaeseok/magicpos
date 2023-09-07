@@ -16,12 +16,8 @@
 
 #### 데이터 수집
 Open computer vision(OpenCV)와 Mediapipe hands 라이브러리를 이용하여 자체 데이터 수집
-- 8개의 동작
-- 각 동작별 15730개 데이터
-- 왼손, 오른손 각 60000개
-- 총 125000개 데이터 수집
-![image](https://github.com/baekjaeseok/magicpos/assets/133929822/1918d62a-7f94-4327-a00f-cd744e01df5d)
-
+* 8개의 동작을 동작별로 30초씩 수집(동작별 15730개)
+* 총 125000개 데이터 수집
 * code location : create_dataset.py
 
 #### 모델 학습
