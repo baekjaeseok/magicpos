@@ -1,6 +1,6 @@
 ![magicpos_title](https://github.com/baekjaeseok/magicpos/assets/133929822/848f4869-16e1-46cb-be3a-cc7bd5c4770e)
 #### 기술 스택
-* Spring Framwork 활용
+* Spring Framwork
 * Java / JavaScript / Ajax
 * HTML / CSS / JSP
 * MySQL DB
