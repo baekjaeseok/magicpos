@@ -1,8 +1,4 @@
 ![magicpos_title](https://github.com/baekjaeseok/magicpos/assets/133929822/848f4869-16e1-46cb-be3a-cc7bd5c4770e)
-# MAGIC POS
-## 모션인식 정보를 활용한 딥러닝 기반 교차오염 방지 및 효율적인 업무관리 모델 개발
-## Spring Framework & Python(OpenCV, MediaPipe)
-
 #### 기술 스택
 * Spring Framwork 활용
 * Java / JavaScript / Ajax
