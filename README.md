@@ -8,6 +8,8 @@
 * HTML / CSS / JSP
 * MySQL DB
 * Python / COLAB / Pycharm
+* Apache Tomcat v8.5
+* Github
 
 #### 담당
 * 데이터베이스(MySQL)설계
